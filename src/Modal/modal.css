@@ -1,0 +1,28 @@
+.MainContainer {
+  padding: 25px 0;
+}
+
+.MainContainer-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #F5F5F5;
+  text-align: center;
+}
+
+.MainContainer-header h3 {
+  margin: 0;
+  padding: 20px 10px;
+  padding-left: 260px;
+  color: #000;
+}
+
+.Form {
+  display: flex;
+  align-items: center;
+}
+
+.Modal {
+  text-align: center;
+  margin-top: 170px;
+}
